@@ -10,6 +10,8 @@ T-Brain_無人機飛行載具之智慧計數競賽
 [https://tbrain.trendmicro.com.tw/Competitions/Details/25](https://)
 * AI-CUP報名網址不能貼，會被亂入%%
 ---
-* KC: 	1-334
-* Ray: 	335-666
-* Daniel:	667-1000
+label
+1.官方垃圾圖
+  * KC: 	1-334
+  * Ray: 	335-666
+  * Daniel:	667-1000
