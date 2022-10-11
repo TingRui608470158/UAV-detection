@@ -8,7 +8,7 @@ T-Brain_無人機飛行載具之智慧計數競賽
 * 10/6 對輸入影像進行平舖、scale改回0.9 分數為
 ---
 * T-Brain參賽網站
-[https://tbrain.trendmicro.com.tw/Competitions/Details/25](https://)
+[網站](https://tbrain.trendmicro.com.tw/Competitions/Details/25)
 * AI-CUP報名網址不能貼，會被亂入%%
 ---
 label
